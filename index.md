@@ -59,7 +59,8 @@ Ausgewählte Packages überarbeiten wir in der nächsten Zeit so, dass sie gener
 - [Dotpulse.GoogleMaps](https://github.com/webexcess/dotpulse-neos-plugin-googlemaps) Einfaches Google-Maps ContentElement
 - [Dotpulse.Issuu](https://github.com/webexcess/dotpulse-neos-plugin-issuu) ContentElement zur Einbundung von issuu Papers
 - [Dotpulse.Mediarow](https://github.com/webexcess/dotpulse-neos-plugin-mediarow) ContentElement zur dynamischen Ausgabe von Media-Inhalten
-- [Dotpulse.Multicolumn](https://github.com/webexcess/dotpulse-neos-plugin-multicolumn) Konfigurierbares Mehrspalten-Element
+- [~~Dotpulse.Multicolumn~~](https://github.com/webexcess/dotpulse-neos-plugin-multicolumn) Konfigurierbares Mehrspalten-Element
+  - [WebExcess.MultiColumn](https://github.com/webexcess/WebExcess.MultiColumn) Production Fork unter der MIT-Lizenz
 - [Dotpulse.ResponsiveTabs](https://github.com/webexcess/dotpulse-neos-plugin-responsivetabs) ContentElement für Responsive Tabs
 
 ### Extensions and Helpers
