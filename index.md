@@ -45,7 +45,8 @@ Ausgewählte Packages überarbeiten wir in der nächsten Zeit so, dass sie gener
 
 - [Dotpulse.Base](https://github.com/webexcess/dotpulse-neos-plugin-base) Sehr umfangreiches Basis-Package zur Erstellung
 - [Dotpulse.Basic](https://github.com/webexcess/dotpulse-neos-plugin-basic) Leichtgewichtigeres Basis-Package als Nachfolger von dotpulse.base
-- [Dotpulse-Gulpfile](https://github.com/webexcess/dotpulse-gulpfile.js) Umfangreiches Frontend Build-Tool für Neos und Flow
+- [~~Dotpulse-Gulpfile~~](https://github.com/webexcess/dotpulse-gulpfile.js) Umfangreiches Frontend Build-Tool für Neos und Flow
+  - [Gulpfile](https://github.com/jonnitto/gulpfile.js) Jonnitto Fork unter der MIT-Lizenz
 
 ### Content Elements
 
